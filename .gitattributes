@@ -1,0 +1,2 @@
+#add override for php files showing as hack
+*.php linguist-language=Php
